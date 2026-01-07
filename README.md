@@ -21,10 +21,10 @@
 
 💡 What I Do
 
-🧩 Practice DSA (Beginner-level questions) & problem solving
-💻 Build Java & Web projects
-⚛️ Learn React step by step
-📂 Upload projects on GitHub
+🧩 Practice DSA (Beginner-level questions) & problem solving <br>
+💻 Build Java & Web projects<br>
+⚛️ Learn React step by step<br>
+📂 Upload projects on GitHub<br>
 
 💡 Interests
 
