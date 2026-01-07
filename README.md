@@ -32,7 +32,7 @@ Solving coding challenges, building software projects and web applications, enth
 
 📫 Connect with Me
 
-[📧 Email Me](mailto:komal.work1626@gmail.com)  [💼 LinkedIn](https://www.linkedin.com/in/komalshinde16)
+[📧 Email Me](mailto:komalambadasshinde@gmail.com)  [💼 LinkedIn](https://www.linkedin.com/in/komalshinde16)
  
 
 
