@@ -1,23 +1,41 @@
-## Hi there⭐
+ Hey there⭐
 
 I'm Komal Shinde 👩‍💻  
+💻 Full-Stack Developer
 🎓 Final Year ENTC Engineering Student  
 🌱 Learning Java, DSA & Web Development
 
-## 🛠 Tech Stack
+ 🛠 Tech Stack
 
 - 💻 Java  
 - 🌐 HTML, CSS, JavaScript  
 - ⚛️ React.js  
 - 🗄️ MongoDB  
-- 🧮 SQL  
+- 🧮 SQL | 🐘 PostgreSQL
 - 🧠 DSA (Beginner)  
 - 🔧 Git & GitHub
+  
+🌱 Currently Learning
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+💻 Java Projects | ⚛️ React Projects | 💻 Full-Stack Development | 📡 ENTC
+
+💡 What I Do
+
+🧩 Practice DSA (Beginner-level questions) & problem solving
+💻 Build Java & Web projects
+⚛️ Learn React step by step
+📂 Upload projects on GitHub
+
+💡 Interests
+
+Solving coding challenges, building software projects and web applications, enthusiastically learning new skills, and always keen to learn immediately.
+
+📫 Connect with Me
+
+[📧 Email Me](mailto:komal.work1626@gmail.com)  
+[💼 LinkedIn](https://www.linkedin.com/in/komalshinde16)
+
+
 
 
 
