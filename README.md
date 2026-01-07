@@ -1,7 +1,7 @@
  Hey there⭐
 
 I'm Komal Shinde 👩‍💻  
-💻 Full-Stack Developer
+💻 Full-Stack Developer <br>
 🎓 Final Year ENTC Engineering Student  
 🌱 Learning Java, DSA & Web Development
 
