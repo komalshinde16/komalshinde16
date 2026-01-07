@@ -30,7 +30,7 @@
 
 Solving coding challenges, building software projects and web applications, enthusiastically learning new skills, and always keen to learn immediately.
 
-📫 Connect with Me
+📫 Let's Connect
 
 [📧 Email Me](mailto:komalambadasshinde@gmail.com)  [💼 LinkedIn](https://www.linkedin.com/in/komalshinde16)
  
