@@ -17,7 +17,7 @@
   
 🌱 Currently Learning
 
-💻 Java Projects | ⚛️ React Projects | 💻 Full-Stack Development | 📡 ENTC
+💻 Java Projects | ⚛️ React Projects | 💻 Full-Stack Development | 📡 E&TC
 
 💡 What I Do
 
