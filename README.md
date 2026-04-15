@@ -2,7 +2,7 @@
 
   
 💻 Java Full-Stack Developer <br>
-🎓 Final Year ENTC Engineering Student  
+🎓 Final Year E&TC Engineering Student  
 🌱 Learning Java, DSA & Web Development
 
  🛠 Tech Stack
