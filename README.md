@@ -2,7 +2,7 @@
 
   
 💻 Java Full-Stack Developer <br>
-🎓 Electronics and Telecommunication Engineer 
+🎓 Electronics and Telecommunication Engineer <br>
 🌱 Learning Java, DSA & Web Development
 
  🛠 Tech Stack
