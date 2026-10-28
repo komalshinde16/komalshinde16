@@ -1,8 +1,8 @@
- Hey there⭐I'm *Komal Shinde*
+ Hey there⭐I'm *Komal*
 
   
 💻 Java Full-Stack Developer <br>
-🎓 Final Year E&TC Engineering Student  
+🎓 Electronics and Telecommunication Engineer 
 🌱 Learning Java, DSA & Web Development
 
  🛠 Tech Stack
@@ -17,7 +17,7 @@
   
 🌱 Currently Learning
 
-💻 Java Projects | ⚛️ React Projects | 💻 Full-Stack Development | 📡 E&TC Projects
+💻 Java Projects | ⚛️ React Projects | 💻 Full-Stack Development 
 
 💡 What I Do
 
